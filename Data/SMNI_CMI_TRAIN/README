@@ -1,0 +1,42 @@
+		    http://hebb.uoregon.edu/~ingber/EEG_CMI/
+
+			EEG data now publicly available
+
+It is extremely difficult for modelers of nonlinear time series, and
+EEG systems in particular, to get access to large sets of raw clean
+data.  Such a set of data was acquired and used for the study in
+	%A L. Ingber
+	%T Statistical mechanics of neocortical interactions: Canonical
+	   momenta indicators of electroencephalography
+	%J Physical Review E
+	%V 55
+	%N 4
+	%P 4578-4593
+	%D 1997
+	%O URL http://www.ingber.com/smni97_cmi.ps.Z
+
+Another paper used a set of out-of-sample data to further test the CMI
+developed in the above paper.
+
+The above adaptive simulated annealing (ASA) application to EEG
+analysis is one of several ASA applications being prepared for the SPEC
+(Standard Performance Evaluation Corporation) CPU98 suite.  Eventually
+the code used to perform these calculations will be published on a
+CDROM by SPEC.
+
+Raw EEG data is now publicly available, as described in
+	http://www.ingber.com/smni_eeg_data.html
+	ftp://ftp.ingber.com/MISC.DIR/smni_eeg_data.txt
+
+The ASA code is publicly available at no charge from
+	http://www.ingber.com/
+	ftp:/ftp.ingber.com
+A complete homepage is mirrored on
+	http://www.alumni.caltech.edu/~ingber/
+
+Lester
+
+ /*             RESEARCH                               ingber@ingber.com *
+  *       INGBER                                    ftp://ftp.ingber.com *
+  * LESTER                                        http://www.ingber.com/ *
+  * http://www.alumni.caltech.edu/~ingber/     ingber@alumni.caltech.edu */

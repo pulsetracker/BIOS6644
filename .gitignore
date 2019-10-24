@@ -1,2 +1,7 @@
 __pycache__
 .pytest_cache
+<<<<<<< HEAD
+.ipynb_checkpoints
+=======
+
+>>>>>>> d72fc4dab3c7e7bd1dd98ad80cf2ac1668a65707
